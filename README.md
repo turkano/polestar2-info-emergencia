@@ -1,34 +1,47 @@
-# Información de Emergencia del Polestar 2
+# 📘 Información de Emergencia – Polestar 2
+Una guía completa con información útil y pasos detallados para resolver problemas comunes en el Polestar 2.
 
-Diversas informaciones útiles para cuando algo sale mal.
+> **Nota sobre imágenes:** Las imágenes externas (como las de Wikipedia) son solo ejemplos. Si deseas usar imágenes locales como la del botón Connect/SOS que has subido, debes crear una carpeta (por ejemplo, `/assets`) en tu repositorio, subir la imagen allí y actualizar las rutas de los enlaces.
 
-## Soporte al Cliente y Asistencia en Carretera de Polestar
+---
+
+## 📑 Tabla de Contenidos
+
+1. [Polestar Assistance](#-polestar-assistance-asistencia-y-cobertura)  
+2. [Reinicio del sistema de infoentretenimiento](#-reinicio-del-sistema-de-infoentretenimiento)  
+3. [Reinicio del módulo TCAM](#-reinicio-del-módulo-tcam)  
+4. [Silenciar la alarma del vehículo](#-silenciar-la-alarma-del-vehículo)  
+5. [Reiniciar Google Assistant](#-reiniciar-google-assistant)  
+6. [Errores del sistema de propulsión](#-errores-del-sistema-de-propulsión)  
+7. [Arranque con batería auxiliar (Jump-Start)](#-arranque-con-batería-auxiliar-jump-start)  
+8. [Activar el Modo Remolque](#-activar-el-modo-remolque-tow-mode)  
+9. [Liberación manual del cable de carga](#-liberación-manual-del-cable-de-carga)  
+10. [Guía de Fusibles](#-guía-de-fusibles)  
+11. [Licencia](#-licencia)  
+
+---
+
+## 📞 Polestar Assistance: Asistencia y Cobertura
 
 https://www.polestar.com/es/support/contact/
 
-Polestar assistance puede ofrecer asistencia en caso de parada del motor o si el vehículo se detiene de forma inesperada. Polestar assistance se aplicará si el vehículo deja de funcionar por una contingencia mecánica, técnica o eléctrica no atribuible a un deficiente mantenimiento.
+Polestar assistance puede ofrecer asistencia en caso de parada del motor o si el vehículo se detiene de forma inesperada. Se aplicará si el vehículo deja de funcionar por una contingencia mecánica, técnica o eléctrica no atribuible a un deficiente mantenimiento.
 
 Los siguientes casos también están cubiertos por Polestar assistance:
 * Problemas con neumáticos: pinchazo
 * Batería descargada
 * Problemas con llaves: llaves dejadas dentro, extraviadas o estropeadas.
 
-Si no puede repararse el automóvil in situ, se remolcará este al centro de servicio autorizado Polestar más próximo.
-
-Polestar assistance también se aplica en caso de accidente de tráfico que inmovilice el vehículo, en las tentativas de robo o actos vandálicos que impidan su conducción, si el automóvil es sustraído y en los incendios.
-
-
-Si el automóvil no puede repararse en un lapso de cuatro horas ese mismo día, se le ofrecerá transporte a casa o a su destino, hotel o vehículo de sustitución de acuerdo con 1.3 de las condiciones adicionales de Polestar assistance.
-
 ### Contacto
 
 Si sufre una avería o un accidente y no puede continuar con su trayecto, comuníquese con Polestar assistance.
 
-![Botones Polestar Connect y SOS](images/polestar_connect_sos_button.png)
+Para aplicar Polestar assistance es necesario que contacte de inmediato con Polestar assistance.
 
-* **Pulse el botón CONNECT del techo.** Entonces se le conectará con uno de nuestros operadores, quien podrá ver su posición geográfica y otro tipo de información que permitirá ayudarle de la mejor manera posible.
+* **Pulse el botón CONNECT (negro) del techo.** Entonces se le conectará con uno de nuestros operadores, quien podrá ver su posición geográfica y otro tipo de información que permitirá ayudarle de la mejor manera posible.
 * También puede solicitar ayuda mediante la **aplicación Polestar**.
 
+![Botones CONNECT y SOS](images/polestar_connect_sos_button.png) 
 Cuando se ponga en contacto con nosotros, necesitaremos los siguientes datos para poder ayudarle:
 * Su nombre y dirección
 * Matrícula y número VIN del vehículo
@@ -37,79 +50,113 @@ Cuando se ponga en contacto con nosotros, necesitaremos los siguientes datos par
 * Una descripción del problema
 * Número de teléfono móvil y/o correo electrónico.
 
-
 ### Cobertura Geográfica
 
 Polestar assistance es válido en los siguientes países:
 Albania, Andorra, Bélgica, Bosnia-Herzegovina, Bulgaria, Dinamarca, Estonia, Finlandia, Francia, Gibraltar, Grecia¹, Irlanda, Islandia, Italia, Croacia, Letonia, Liechtenstein, Lituania, Luxemburgo, Macedonia, Malta, Moldavia, Mónaco, Montenegro, Países Bajos, Macedonia del Norte, Noruega, Polonia, Portugal, Rumanía, Rusia², San Marino, Suiza, Serbia, Eslovaquia, Eslovenia, España, Reino Unido, Suecia, República Checa, Turquía, Alemania, Ucrania, Hungría, Bielorrusia y Austria. Polestar assistance también se aplica en los traslados entre dichos países.
 
+---
 
-## Reinicio del Sistema de Infoentretenimiento (Infotainment Reset)
+## 🔄 Reinicio del Sistema de Infoentretenimiento
 
-Mantén presionado el botón de inicio (home) hasta que la pantalla se apague por completo. Se reiniciará después de unos 10 a 20 segundos.
+Mantén presionado el **botón de inicio (Home)** hasta que la pantalla se apague por completo. Se reiniciará después de unos **10 a 20 segundos**.
 
-## Reinicio del TCAM
+---
+
+## 📡 Reinicio del Módulo TCAM
 
 El TCAM es el módulo de telecomunicaciones que proporciona servicios de red y radio para Internet (3G/4G/LTE), Wifi, GPS, Bluetooth y las llaves. Si alguna de estas funciones está fallando, puedes intentar restablecer el TCAM:
 
-1. Detén el coche y asegúrate de que esté en posición de estacionamiento (park).
-2. Mantén presionado el botón HOME en la pantalla principal hasta que el sistema de infoentretenimiento se reinicie (ver arriba).
-3. Inmediatamente después de que finalice el reinicio, mantén presionado el botón de desempañado de la ventana delantera (el que está al lado del botón de reproducir/pausa con forma de parabrisas curvado... en un coche con volante a la derecha, está a la izquierda de reproducir/pausa) durante al menos 15 segundos.
-4. Espera pacientemente unos segundos hasta que el SOS comience a parpadear.
+<details>
+<summary>🔧 Procedimiento detallado</summary>
 
-## Silenciar la Alarma del Coche
+1. Detén el coche y asegúrate de que esté en **posición de estacionamiento (P)**.
+2. Mantén presionado el botón **HOME** en la pantalla principal hasta que el sistema de infoentretenimiento se reinicie (ver arriba).
+3. **Inmediatamente después** de que finalice el reinicio, mantén presionado el **botón de desempañado de la ventana delantera** (el que está al lado del botón de reproducir/pausa con forma de parabrisas curvado) durante al menos **15 segundos**.
+4. Espera pacientemente unos segundos hasta que el **SOS comience a parpadear**.
 
-Coloca un mando (key fob) (no la llave de actividad/activity key) en el portavasos debajo del reposabrazos central.
+</details>
 
-## Reinicio del Asistente de Google (Google Assistant Reset)
+---
+
+## 🔇 Silenciar la Alarma del Vehículo
+
+Coloca un **mando (key fob)** (no la llave de actividad/activity key) en el **portavasos debajo del reposabrazos central**.
+
+---
+
+## 🎤 Reiniciar Google Assistant
 
 Puedes reinicializar el Asistente de Google borrando el almacenamiento de la aplicación. Para ello, sigue estos pasos: 
 
 `Ajustes -> Aplicaciones y notificaciones -> Mostrar todas las aplicaciones -> Asistente de Google -> Almacenamiento y caché -> Borrar almacenamiento`
 
-## Errores del Sistema de Propulsión
+---
 
-Cierra el coche y déjalo durante unos 30 minutos, manteniéndote lo suficientemente lejos para que no detecte la llave. Esto suele ser suficiente para que el coche vuelva a ser apto para la conducción.
+## ⚠️ Errores del Sistema de Propulsión
 
-## Arranque de Batería (Battery Boost)
+1. Cierra el coche y déjalo durante unos **30 minutos**.
+2. Asegúrate de mantenerte lo suficientemente lejos para que **no detecte la llave**.
+3. Esto suele ser suficiente para que el coche vuelva a ser apto para la conducción.
 
-1. Coloca el sistema eléctrico del vehículo en modo de uso Pasivo.
-2. Asegúrate de que la batería de asistencia tenga un voltaje de 12V.
-3. Si la batería está en otro vehículo, apaga el motor de ese vehículo y asegúrate de que los vehículos no se toquen entre sí.
-4. Sujeta un extremo del cable de puente rojo al terminal positivo de la batería de asistencia, a menudo marcado en rojo o con un signo más (+).
-5. Abre la cubierta del punto de carga positivo presionando su lado para liberar el pestillo mientras levantas la cubierta hacia arriba. Hay dos puntos de carga bajo la cubierta. Utiliza el más cercano al centro del vehículo.
-6. Sujeta el otro extremo del cable de puente rojo al punto de carga positivo.
-7. Sujeta un extremo del cable de puente negro al terminal negativo de la batería de asistencia, a menudo marcado en negro o con un signo menos (-).
-8. Sujeta el otro extremo del cable de puente negro al punto de carga negativo de tu vehículo. Dado que el chasis del vehículo sirve como toma de tierra para el sistema de 12 V, se puede utilizar la cabeza del perno marcada en la ilustración.
-9. Asegúrate de que los cables de puente estén bien sujetos para ayudar a prevenir chispas durante el arranque.
-10. Arranca el motor del vehículo de asistencia.
-11. Arranca el vehículo con la batería descargada presionando el pedal del freno y seleccionando la posición de marcha D o R.
-12. Si la batería de alto voltaje también está descargada, comienza a cargar el vehículo utilizando el cable de carga.
-13. Retira los cables de puente en orden inverso ‒ primero los cables negros y luego los cables rojos.
+---
 
-Asegúrate de que ninguna de las pinzas de los cables de puente negros entre en contacto con el punto de carga positivo del vehículo, el terminal positivo de la batería de asistencia o cualquiera de las pinzas conectadas del cable de puente rojo.
+## 🔋 Arranque con Batería Auxiliar (Jump-Start)
 
-![image](https://user-images.githubusercontent.com/1222810/167464833-a5950991-7025-463c-90bd-276225e3fe18.png)
+<details>
+<summary>🔧 Procedimiento paso a paso</summary>
 
-## Activar Modo Remolque (Tow Mode)
+1. Coloca el sistema eléctrico del vehículo en **modo de uso Pasivo**.
+2. Asegúrate de que la batería de asistencia tenga un voltaje de **12V**.
+3. Si la batería está en otro vehículo, **apaga el motor** de ese vehículo y asegúrate de que los vehículos **no se toquen** entre sí.
+4. Sujeta un extremo del cable de puente rojo al terminal **positivo (+)** de la batería de asistencia.
+5. Abre la cubierta del punto de carga positivo y sujeta el otro extremo del cable de puente rojo al **punto de carga positivo**.
+6. Sujeta un extremo del cable de puente negro al terminal **negativo (-)** de la batería de asistencia.
+7. Sujeta el otro extremo del cable de puente negro al **punto de carga negativo** de tu vehículo (el perno marcado en la ilustración de referencia).
+8. Arranca el motor del vehículo de asistencia.
+9. Arranca el Polestar presionando el pedal del freno y seleccionando **D o R**.
+10. Si la batería de alto voltaje también está descargada, comienza a cargar el vehículo.
+11. Retira los cables de puente en orden inverso ‒ **primero los cables negros y luego los cables rojos**.
 
-1. Toca el símbolo del coche en la pantalla central.
-2. Toca Más.
-3. Toca Estado del coche.
-4. Toca Servicio.
-5. Selecciona Modo Remolque.
+Asegúrate de que ninguna de las pinzas del cable negro entre en contacto con el punto de carga positivo del vehículo o el cable rojo.
+
+![Puntos de conexión para arranque de batería](https://user-images.githubusercontent.com/1222810/167464833-a5950991-7025-463c-90bd-276225e3fe18.png)
+
+</details>
+
+---
+
+## 🚚 Activar el Modo Remolque (Tow Mode)
+
+1. Toca el **símbolo del coche** en la pantalla central.
+2. Toca **Más**.
+3. Toca **Estado del coche**.
+4. Toca **Servicio**.
+5. Selecciona **Modo Remolque**.
 6. Sigue las instrucciones en pantalla.
 
 El vehículo está ahora en modo remolque y puede rodar libremente.
 
-## Liberación Manual del Cable de Carga (¡Solo Nivel 1 o 2!)
+---
 
-Si el motor de bloqueo no se libera durante la carga de nivel 1 o 2, el cable se puede retirar mediante un accionamiento manual del motor de bloqueo. Para liberar el cable:
-1. Utiliza una llave torx T30 o un destornillador de punta plana y presiona suavemente el motor de bloqueo del cable ubicado en la parte superior del conector del cable de carga.
-2. Una vez que el motor esté liberado, presiona la palanca de bloqueo del cable y retira el cable de carga del vehículo.
+## 🔓 Liberación Manual del Cable de Carga
 
-## Guía de Fusibles
-![image](https://user-images.githubusercontent.com/1222810/167455377-04a9e6cc-ab51-44af-b7f5-3c75c4840516.png)
+**(¡Solo Nivel 1 o 2!)**
+
+Si el motor de bloqueo no se libera, el cable se puede retirar mediante un accionamiento manual:
+
+1. Utiliza una **llave Torx T30** o un destornillador de punta plana.
+2. **Presiona suavemente** el motor de bloqueo del cable ubicado en la parte superior del conector.
+3. Una vez que el motor esté liberado, presiona la palanca de bloqueo del cable y **retira el cable de carga**.
+
+---
+
+## 🔌 Guía de Fusibles
+
+![Ubicación de la caja de fusibles (ejemplo)](https://user-images.githubusercontent.com/1222810/167455377-04a9e6cc-ab51-44af-b7f5-3c75c4840516.png)
+
+<details>
+<summary>📘 Mostrar tabla completa</summary>
 
 | # | Función | Amperaje | Tipo |
 | - | - | - | - |
@@ -181,3 +228,14 @@ Si el motor de bloqueo no se libera durante la carga de nivel 1 o 2, el cable se
 | 87 | Cargador móvil inalámbrico; Toma USB | 7,5 | Micro |
 | 90 | – | – | Micro |
 | 91 | – | – | Micro |
+
+</details>
+
+---
+
+## 📄 Licencia
+
+Basado en el proyecto original:  
+**github.com/drittich/polestar2-emergency-info** Se aplica la licencia MIT del repositorio base.
+
+---
