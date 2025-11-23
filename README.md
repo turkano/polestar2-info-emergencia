@@ -17,7 +17,8 @@ Una guía completa con información útil y pasos detallados para resolver probl
 8. [Activar el Modo Remolque](#-activar-el-modo-remolque-tow-mode)  
 9. [Liberación manual del cable de carga](#-liberación-manual-del-cable-de-carga)  
 10. [Guía de Fusibles](#-guía-de-fusibles)  
-11. [Licencia](#-licencia)  
+11. [Recursos Oficiales de Emergencia](#-recursos-oficiales-de-emergencia)
+12. [Licencia](#-licencia)
 
 ---
 
@@ -230,6 +231,19 @@ Si el motor de bloqueo no se libera, el cable se puede retirar mediante un accio
 | 91 | – | – | Micro |
 
 </details>
+
+---
+## 📚 Recursos Oficiales de Emergencia
+
+Esta sección incluye enlaces a documentación crítica del fabricante:
+
+* 📄 **Hoja de Rescate oficial Polestar 2 (PDF):** [files/Polestar_2__Hatchback_2020_4d_Electric_ES.pdf]
+
+* 📄 **Guía oficial de rescate Polestar 2 (PDF)**
+    [https://www.volvocars.com/images/support/manuals/polestar_2_rescue_guide.pdf]
+
+* 📄 **Manual del vehículo (versión online)**
+    [[https://www.polestar.com](https://www.polestar.com/es/manual/polestar-2/2026/)]
 
 ---
 
