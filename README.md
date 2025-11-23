@@ -4,7 +4,43 @@ Diversas informaciones útiles para cuando algo sale mal.
 
 ## Soporte al Cliente y Asistencia en Carretera de Polestar
 
-Para contactar con Asistencia en Carretera utilizando Polestar Connect, presiona el botón negro 'CONNECT' en la consola del techo. Los números de teléfono gratuitos se pueden encontrar en [https://www.polestar.com/en/service-and-assistance/roadside-assistance/](https://www.polestar.com/en/service-and-assistance/roadside-assistance/).
+
+Polestar assistance puede ofrecer asistencia en caso de parada del motor o si el vehículo se detiene de forma inesperada. Polestar assistance se aplicará si el vehículo deja de funcionar por una contingencia mecánica, técnica o eléctrica no atribuible a un deficiente mantenimiento.
+
+Los siguientes casos también están cubiertos por Polestar assistance:
+* Problemas con neumáticos: pinchazo
+* Batería descargada
+* Problemas con llaves: llaves dejadas dentro, extraviadas o estropeadas.
+
+Si no puede repararse el automóvil in situ, se remolcará este al centro de servicio autorizado Polestar más próximo.
+
+Polestar assistance también se aplica en caso de accidente de tráfico que inmovilice el vehículo, en las tentativas de robo o actos vandálicos que impidan su conducción, si el automóvil es sustraído y en los incendios.
+
+
+Si el automóvil no puede repararse en un lapso de cuatro horas ese mismo día, se le ofrecerá transporte a casa o a su destino, hotel o vehículo de sustitución de acuerdo con 1.3 de las condiciones adicionales de Polestar assistance.
+
+### Contacto
+
+Si sufre una avería o un accidente y no puede continuar con su trayecto, comuníquese con Polestar assistance.
+
+
+* **Pulse el botón CONNECT del techo.** Entonces se le conectará con uno de nuestros operadores, quien podrá ver su posición geográfica y otro tipo de información que permitirá ayudarle de la mejor manera posible.
+* También puede solicitar ayuda mediante la **aplicación Polestar**.
+
+Cuando se ponga en contacto con nosotros, necesitaremos los siguientes datos para poder ayudarle:
+* Su nombre y dirección
+* Matrícula y número VIN del vehículo
+* Modelo y color del automóvil
+* Su posición, lo más detallada posible
+* Una descripción del problema
+* Número de teléfono móvil y/o correo electrónico.
+
+
+### Cobertura Geográfica
+
+Polestar assistance es válido en los siguientes países:
+Albania, Andorra, Bélgica, Bosnia-Herzegovina, Bulgaria, Dinamarca, Estonia, Finlandia, Francia, Gibraltar, Grecia¹, Irlanda, Islandia, Italia, Croacia, Letonia, Liechtenstein, Lituania, Luxemburgo, Macedonia, Malta, Moldavia, Mónaco, Montenegro, Países Bajos, Macedonia del Norte, Noruega, Polonia, Portugal, Rumanía, Rusia², San Marino, Suiza, Serbia, Eslovaquia, Eslovenia, España, Reino Unido, Suecia, República Checa, Turquía, Alemania, Ucrania, Hungría, Bielorrusia y Austria. Polestar assistance también se aplica en los traslados entre dichos países.
+
 
 ## Reinicio del Sistema de Infoentretenimiento (Infotainment Reset)
 
