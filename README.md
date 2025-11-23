@@ -23,6 +23,7 @@ Si el automóvil no puede repararse en un lapso de cuatro horas ese mismo día, 
 
 Si sufre una avería o un accidente y no puede continuar con su trayecto, comuníquese con Polestar assistance.
 
+![Botones Polestar Connect y SOS](images/polestar_connect_sos_button.png)
 
 * **Pulse el botón CONNECT del techo.** Entonces se le conectará con uno de nuestros operadores, quien podrá ver su posición geográfica y otro tipo de información que permitirá ayudarle de la mejor manera posible.
 * También puede solicitar ayuda mediante la **aplicación Polestar**.
