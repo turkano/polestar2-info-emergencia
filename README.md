@@ -1,7 +1,6 @@
 # 📘 Información de Emergencia – Polestar 2
 Una guía completa con información útil y pasos detallados para resolver problemas comunes en el Polestar 2.
 
-> **Nota sobre imágenes:** Las imágenes externas (como las de Wikipedia) son solo ejemplos. Si deseas usar imágenes locales como la del botón Connect/SOS que has subido, debes crear una carpeta (por ejemplo, `/assets`) en tu repositorio, subir la imagen allí y actualizar las rutas de los enlaces.
 
 ---
 
@@ -121,7 +120,7 @@ Puedes reinicializar el Asistente de Google borrando el almacenamiento de la apl
 
 Asegúrate de que ninguna de las pinzas del cable negro entre en contacto con el punto de carga positivo del vehículo o el cable rojo.
 
-![Puntos de conexión para arranque de batería](https://user-images.githubusercontent.com/1222810/167464833-a5950991-7025-463c-90bd-276225e3fe18.png)
+![Puntos de conexión para arranque de batería](images/polos_bateria_12v.png)
 
 </details>
 
@@ -154,7 +153,7 @@ Si el motor de bloqueo no se libera, el cable se puede retirar mediante un accio
 
 ## 🔌 Guía de Fusibles
 
-![Ubicación de la caja de fusibles (ejemplo)](https://user-images.githubusercontent.com/1222810/167455377-04a9e6cc-ab51-44af-b7f5-3c75c4840516.png)
+![Ubicación de la caja de fusibles (ejemplo)](images/fusibles_p2.png)
 
 <details>
 <summary>📘 Mostrar tabla completa</summary>
