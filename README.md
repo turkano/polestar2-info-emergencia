@@ -236,7 +236,7 @@ Si el motor de bloqueo no se libera, el cable se puede retirar mediante un accio
 
 Esta sección incluye enlaces a documentación crítica del fabricante:
 
-* 📄 **Hoja de Rescate oficial Polestar 2 (PDF):** [Descargar Hoja de Rescate (PDF)](files/Polestar_2_2020_Electric_ES.pdf)
+* 📄 **Hoja de Rescate oficial Polestar 2 (PDF):** [Descargar Hoja de Rescate (PDF)](https://github.com/turkano/polestar2-info-emergencia/blob/5986829f9b1f2ce6dbaa047bd4134c3f64714687/files/Polestar_2_2020_Electric_ES.pdf)
 
 * 📄 **Manual del vehículo (versión online)**
     [[https://www.polestar.com](https://www.polestar.com/es/manual/polestar-2/2026/)]
