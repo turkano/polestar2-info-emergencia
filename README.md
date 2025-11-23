@@ -4,6 +4,7 @@ Diversas informaciones útiles para cuando algo sale mal.
 
 ## Soporte al Cliente y Asistencia en Carretera de Polestar
 
+https://www.polestar.com/es/support/contact/
 
 Polestar assistance puede ofrecer asistencia en caso de parada del motor o si el vehículo se detiene de forma inesperada. Polestar assistance se aplicará si el vehículo deja de funcionar por una contingencia mecánica, técnica o eléctrica no atribuible a un deficiente mantenimiento.
 
